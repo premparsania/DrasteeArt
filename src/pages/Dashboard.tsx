@@ -1,5 +1,5 @@
 import React from "react";
-import { ImgSlider, MainCardEven, MainCardOdd } from "../components";
+import { Footer, ImgSlider, MainCardEven, MainCardOdd } from "../components";
 import { Link } from "react-router-dom";
 
 function Dashboard() {
@@ -11,6 +11,7 @@ function Dashboard() {
       <MainCardOdd Img="/images/Corner Design/CD-1.PNG" link="CornerDesign" />
       <MainCardEven Img="/images/Free Hand Design/FH-1.PNG" link="/Gilta" />
       <MainCardOdd Img="/images/Gilta/G-1.PNG" link="/HandDesign" />
+      <Footer />
     </main>
   );
 }
