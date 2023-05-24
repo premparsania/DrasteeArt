@@ -16,13 +16,13 @@ function MainCardOdd({ Img, link }: Prop) {
         >
           <div className="md:flex-1 px-4">
             <div x-data="{ image: 1 }" x-cloak>
-              <div className="h-64 md:h-80 rounded-lg bg-gray-100 mb-4">
+              <div className="h-64 md:h-80 rounded-lg bg-black mb-4">
                 <div
                   x-show="image === 1"
-                  className="h-64 md:h-80 rounded-lg bg-gray-100 mb-4 flex items-center justify-center"
+                  className="h-64 md:h-80 rounded-lg bg-black mb-4 flex items-center justify-center"
                 >
-                  <span className="text-5xl zoom_ef">
-                    <img src={Img} alt="" className="zoom_eff bg-black" />
+                  <span className="text-5xl">
+                    <img src={Img} alt="" className="bg-black" />
                   </span>
                 </div>
               </div>
