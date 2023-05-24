@@ -5,7 +5,9 @@ import { Link } from "react-router-dom";
 function Dashboard() {
   return (
     <main className="overflow-hidden">
+      <div className="mb-10">
       <ImgSlider />
+      </div>
       <MainCardOdd Img="/images/Border/B-1.PNG" link="/Border" />
       <MainCardEven Img="/images/columm/C-1.PNG" link="/Columm" />
       <MainCardOdd Img="/images/Corner Design/CD-1.PNG" link="CornerDesign" />

@@ -8,8 +8,8 @@ type Prop = {
 
 function MainCardOdd({ Img, link }: Prop) {
   return (
-    <div className="py-14">
-      <div className="w-[90%] mx-auto px-4 sm:px-6 lg:px-8 mt-6 duration-500 ease-in-out transition-all">
+    <div className="sm:py-14 lg:py-14">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 duration-500 ease-in-out transition-all">
         <Link
           to={link}
           className="flex flex-col items-center md:flex-row -mx-4"
