@@ -10,20 +10,20 @@ function Footer() {
             <div className="text-sm uppercase text-[#aaaaaa]">
               Category
             </div>
-            <div className="my-3 flex justify-between items-center">
-              <Link className="my-3 font-medium text-xs hover:text-black" to="/Border">
+            <div className="my-3 flex lg:flex-row flex-col justify-between items-center">
+              <Link className="my-3 font-medium text-xs hover:text-[#fff]" to="/Border">
                 DECORATIVE BORDER
               </Link>
-              <Link className="my-3 font-medium text-xs hover:text-black" to="/Columm">
+              <Link className="my-3 font-medium text-xs hover:text-[#fff]" to="/Columm">
                 DECORATIVE COLUMNS
               </Link>
-              <Link className="my-3 font-medium text-xs hover:text-black" to="/CornerDesign">
+              <Link className="my-3 font-medium text-xs hover:text-[#fff]" to="/CornerDesign">
                 DECORATIVE CORNER AND BORDERS
               </Link>
-              <Link className="my-3 font-medium text-xs hover:text-black" to="/Gilta">
+              <Link className="my-3 font-medium text-xs hover:text-[#fff]" to="/Gilta">
                 DECORATIVE GILTA
               </Link>
-              <Link className="my-3 font-medium text-xs hover:text-black" to="/HandDesign">
+              <Link className="my-3 font-medium text-xs hover:text-[#fff]" to="/HandDesign">
                 DECORATIVE CEILING AND OTHER DESIGNS
               </Link>
             </div>
@@ -34,7 +34,7 @@ function Footer() {
               Contact us
             </div>
             <a className="my-3 block" href="/#">
-              Drastee Art Zone 80 Feet Road, Near Sardar Patel Arogya Bhavan,
+              Drastee Art Zone <br/>80 Feet Road, Near Sardar Patel Arogya Bhavan,
               <br/>Kothariya Road, Rajkot - 360002. Gujarat (INDIA)
               <span className="text-teal-600 text-xs p-1"></span>
             </a>
