@@ -71,7 +71,7 @@ function HandDesign() {
                     </div>
                   </div>
                 </div>
-                <span className={`${item?.Size ? "":"p-2"}`} >{item?.Size}</span>
+                <span className={`${item?.Size ? "":"md:p-2"}`} >{item?.Size}</span>
               </div>
             );
           })}
