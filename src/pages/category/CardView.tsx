@@ -7,6 +7,7 @@ function CardView() {
   }, []);
   return (
     <>
+    
       <div className="text-center py-10">
         <div className="w-[90%] m-auto">
           <div className="flex items-center space-x-2 text-black text-sm">
