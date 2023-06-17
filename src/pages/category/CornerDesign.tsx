@@ -90,71 +90,71 @@ const BorderData = [
   {
     Img: "/images/Corner Design/CD-1.PNG",
     Title: "CD-1",
-    Size:""
+    Size:"200x260mm"
   },
   {
     Img: "/images/Corner Design/CD-2.PNG",
     Title: "CD-2",
-    Size:"56x56mm"
+    Size:"317x317mm"
   },
   {
     Img: "/images/Corner Design/CD-3.PNG",
     Title: "CD-3",
-    Size:"63x63x10mm"
+    Size:"317x317mm"
   },
   {
     Img: "/images/Corner Design/CD-4.PNG",
     Title: "CD-4",
-    Size:"101x101x17mm"
+    Size:"250x250mm"
   },
   {
     Img: "/images/Corner Design/CD-5.PNG",
     Title: "CD-5",
-    Size:"314x314x70mm"
+    Size:"250x130mm"
   },
   {
     Img: "/images/Corner Design/CD-6.PNG",
     Title: "CD-6",
-    Size:"274x150x37mm"
+    Size:"203x203mm"
   },
   {
     Img: "/images/Corner Design/CD-7.PNG",
     Title: "CD-7",
-    Size:""
+    Size:"170x170mm"
   },
   {
     Img: "/images/Corner Design/CD-8.PNG",
     Title: "CD-8",
-    Size:"295x520x28mm"
+    Size:"462x420x40mm"
   },
   {
     Img: "/images/Corner Design/CD-9.PNG",
     Title: "CD-9",
-    Size:"298x165x30mm"
+    Size:"150x150mm"
   },
   {
     Img: "/images/Corner Design/CD-10.PNG",
     Title: "CD-10",
-    Size:"300x170x35mm"
+    Size:"230x230x40mm"
   },
   {
     Img: "/images/Corner Design/CD-11.PNG",
     Title: "CD-11",
-    Size:"350x121x32mm"
+    Size:"250x250mm"
   },
   {
     Img: "/images/Corner Design/CD-12.PNG",
     Title: "CD-12",
-    Size:"1400x1220x330mm"
+    Size:"317x317mm"
   },
   {
     Img: "/images/Corner Design/CD-13.PNG",
     Title: "CD-13",
-    Size:""
+    Size:"318x318mm"
   },
   {
     Img: "/images/Corner Design/CD-14.PNG",
     Title: "CD-14",
-    Size:""
+    Size:"250x250mm"
   },
 ];
